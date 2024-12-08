@@ -20,7 +20,7 @@ export async function getStaticProps() {
   let slug = 'home';
 
   let sbParams = {
-    version: 'published', // or 'published'
+    version: 'draft', // or 'published'
   };
 
   const storyblokApi = getStoryblokApi();
