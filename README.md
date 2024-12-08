@@ -1,53 +1,52 @@
 # Become a Feline Babe VIP! - Storyblok Link-in-Bio Project
 
-This project is a **dynamic link-in-bio landing page** titled **"Become a Feline Babe VIP!"**, created to engage social media visitors for an e-commerce store specializing in women's clothing. Designed as a seamless bridge between social platforms and the store, this page invites users to explore the **loyalty and referral program**. By leveraging the flexibility of Storyblok's content management system, it ensures effortless updates and a modern, engaging experience tailored to drive conversions directly from social media.
+Welcome to **"Become a Feline Babe VIP!"** — a dynamic and engaging landing page built for an e-commerce store that specializes in women’s clothing.  
+
+This page is designed to work as a **link-in-bio destination**, perfect for users coming from social media platforms. It’s all about giving these visitors an easy way to explore the **loyalty and referral program** while showcasing the modern vibe of the Feline Babe brand. The flexibility of Storyblok as a headless CMS makes managing and updating the page effortless.  
 
 ---
 
-![{0CA73476-2CA3-4A28-8517-6E7DC2758926}](https://github.com/user-attachments/assets/d35e22e9-5c11-46e5-968d-9b46f7259bf1)
+![{0CA73476-2CA3-4A28-8517-6E7DC2758926}](https://github.com/user-attachments/assets/3f05b76f-29ef-4d9b-b278-3ba4264cd57a)
 
 
-## About the Project
+## Why This Project?
 
-**"Become a Feline Babe VIP!"** serves as an interactive and stylish entry point for users of the Feline Babe e-commerce platform. The page is designed to:
-- **Engage Social Media Audiences**: Function as a "link in bio" to guide visitors from social platforms.
-- **Promote the Loyalty Program**: Encourage customers to sign up for exclusive benefits and rewards.
-- **Boost Referrals**: Redirect users to the referral program to share Feline Babe with friends.
-- **Enhance Brand Experience**: Showcase the modern and chic vibe of the Feline Babe brand.
+Social media is where people discover brands, and a good link-in-bio page can be a game-changer. This project bridges the gap between social media and e-commerce, creating an intuitive and visually appealing way for users to interact with the Feline Babe brand. Whether it’s joining the loyalty program, referring a friend, or learning more about the brand, this page is all about enhancing the customer experience and driving engagement.
 
 ---
 
-## Features
+## What’s Inside?
 
-- **Content Management with Storyblok**: Easily update and manage page content without coding.
-- **Customizable Blocks**: Includes interactive blocks such as titles, subtitles, links, rich text, image grids, and more.
-- **Dynamic Content Rendering**: Fetches and renders content via the Storyblok API.
-- **Responsive Design**: Optimized for both desktop and mobile views.
-- **User-Friendly Navigation**: Includes external and internal links, email links, and redirects.
+Here are some key features of this project:  
 
----
-
-## Tech Stack
-
-- **React**: For building a dynamic and responsive user interface.
-- **Next.js**: For server-side rendering, routing, and enhanced performance.
-- **Storyblok**: A headless CMS for managing content.
-- **Storyblok API**: To fetch structured content dynamically.
-- **CSS Modules**: For scoped and maintainable styling.
+- **Dynamic Content**: The page fetches content from the Storyblok API, making it super easy to update on the fly.    
+- **Social Media Focused**: Built specifically to act as a link-in-bio destination for users coming from Instagram, TikTok, and other platforms.    
+- **Effortless Navigation**: Features external links, internal page redirects, and even email links with just one click.  
 
 ---
 
-## Prerequisites
+## Built With  
 
-To run or deploy this project, ensure the following are installed:
-- **Node.js** (v16 or above recommended)
-- **Yarn** or **npm**
+- **React**: For a sleek, interactive UI.  
+- **Next.js**: For enhanced performance with server-side rendering and routing.  
+- **Storyblok**: A headless CMS for easy content management.  
+- **Tailwind CSS**: To keep the styles clean and organized.  
 
 ---
 
-## Installation
+## Getting Started  
 
-1. Clone this repository:
+To get the project up and running, follow these steps:  
+
+### Prerequisites  
+
+Make sure you have the following installed:  
+- **Node.js** (v16 or above is recommended)  
+- **Yarn** or **npm**  
+
+### Installation  
+
+1. Clone this repo:  
    ```bash
    git clone https://github.com/your-username/storyblok-link-in-bio.git
    cd storyblok-link-in-bio
