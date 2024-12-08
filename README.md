@@ -8,6 +8,12 @@ This page is designed to work as a **link-in-bio destination**, perfect for user
 
 ![{0CA73476-2CA3-4A28-8517-6E7DC2758926}](https://github.com/user-attachments/assets/3f05b76f-29ef-4d9b-b278-3ba4264cd57a)
 
+---
+
+## Live Website URL
+https://storyblok-felinebabe-link-in-bio.netlify.app/
+
+---
 
 ## Why This Project?
 
