@@ -8,7 +8,7 @@ export default function Home({ story }) {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Feline Babe VIP</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <StoryblokComponent blok={story.content} />
